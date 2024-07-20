@@ -47,7 +47,7 @@ const styles = StyleSheet.create({
 
     },
     title:{
-        fontSize: hp(1.8),
+        fontSize: hp(1.7),
         fontWeight:theme.fontWeights.medium
     }
 
