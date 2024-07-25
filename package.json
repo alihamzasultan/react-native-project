@@ -43,7 +43,9 @@
     "react-native-screens": "~3.29.0",
     "react-native-web": "~0.19.6",
     "expo-dev-client": "~3.3.12",
-    "expo-blur": "~12.9.2"
+    "expo-blur": "~12.9.2",
+    "expo-file-system": "~16.0.9",
+    "expo-media-library": "~15.9.2"
   },
   "devDependencies": {
     "@babel/core": "^7.24.9",
